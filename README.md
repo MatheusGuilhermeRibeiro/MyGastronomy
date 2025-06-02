@@ -13,9 +13,4 @@
 - JWT (Autenticação)
 - dotenv
 
-## 📦 Instalação
 
-```bash
-git clone https://github.com/seu-usuario/my-gastronomy.git
-cd my-gastronomy
-npm install
